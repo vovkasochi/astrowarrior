@@ -1,0 +1,60 @@
+body {
+	background: silver;
+}
+
+#gameMap {
+	display: block;
+	margin: 10px auto;
+	background: #000;
+
+}
+
+#shipBlock {
+	display: block;
+	margin: -410px auto;
+}
+
+#shipEngineBlock {
+	display: block;
+	margin: 10px auto;
+}
+
+#enemyShip {
+	display: block;
+	margin: -410px auto;
+}
+
+#enemySplash {
+	display: block;
+	margin: 10px auto;
+}
+
+#pointSheet {
+	display: block;
+	margin: -410px auto;
+}
+
+#shieldSheet {
+	display: block;
+	margin: 10px auto;
+}
+
+#score {
+	display: block;
+	margin: -410px auto;
+}
+
+#gameOverScreen {
+	display: block;
+	margin: 10px auto;
+}
+
+#informationLayer {
+	display: block;
+	margin: -410px auto;
+}
+
+#startGameTitle {
+	display: block;
+	margin: 10px auto;
+}
